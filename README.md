@@ -1,2 +1,2 @@
 # AIML
-internship
+internship project 1
